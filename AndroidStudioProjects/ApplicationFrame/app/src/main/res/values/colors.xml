@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fab915</color>
+    <color name="colorPrimaryShadow">#fa8c15</color>
+    <color name="colorAccent">#fb8c00</color>
+    <color name="colorSend">#d6a93e</color>
+    <color name="colorSendDefault">#F0BC45</color>
+    <color name="colorAccentShadow">#fb7600</color>
+    <color name="colorError">#ed0c0c</color>
+    <color name="colorPrimaryLight">#fef8e7</color>
+    <color name="colorMarQueeBackGround">#00f9930f</color>
+    <color name="colorPersonalPhoneNum">#fec588</color>
+
+
+    <!-- text -->
+    <color name="colorTextPrimary">#5a5a5a</color>
+    <color name="colorTextSecondary">#b0b0b0</color>
+    <color name="colorTextErrorBackground">#ffd8d0</color>
+    <color name="colorTextTime">#b7b7b7</color>
+
+    <!-- PARAM_PAGE -->
+    <color name="colorPageForeground">#ffffff</color>
+    <color name="colorPageBackground">#eaeaea</color>
+    <color name="colorPageForegroundShadow">#fff3d5</color>
+    <color name="colorLine">#eaeaea</color>
+    <color name="colorBlack">#000000</color>
+
+    <!--button-->
+
+    <!--input -->
+
+
+    <color name="colorTextEmpty">#C1BFBF</color>
+
+    <color name="pay_patten_selected">#4df0bc45</color>
+
+    <color name="pay_patten_selected_text_color">#ff7300</color>
+    <color name="pay_patten_deselected_text_color">#98a1b2</color>
+
+    <color name="winner_title_text_color">#dddddd</color>
+</resources>

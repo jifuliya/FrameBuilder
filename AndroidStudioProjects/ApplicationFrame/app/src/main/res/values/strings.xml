@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ApplicationFrame</string>
+
+    <string name="recycler_view_no_more">No More</string>
+    <string name="recycler_view_loading">Loading</string>
+    <string name="load_more_failed_click_to_reload">Load more failed, click to reload</string>
+
+    <!--MainActivity-->
+    <string name="main_dialog_title">Please input your title</string>
+    <string name="dialog_confirm">Confirm</string>
+    <string name="dialog_cancel">Cancel</string>
+
+    <!--null-->
+    <string name="null_toast">Please input your title</string>
+</resources>
